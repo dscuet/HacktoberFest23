@@ -1,6 +1,11 @@
 #include <iostream>
 using namespace std;
 
+/*
+    Solved by: Saqlain Mansab
+    URL: https://www.hackerrank.com/challenges/cpp-variadics/problem
+*/
+
 template <bool... digits>
 int reversed_binary_value()
 {

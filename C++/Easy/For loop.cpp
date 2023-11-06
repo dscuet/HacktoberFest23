@@ -1,5 +1,11 @@
 #include <iostream>
 using namespace std;
+
+/*
+    Solved by: Saqlain Mansab
+    URL: https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem
+*/
+
 int main()
 {
     int n1, n2;

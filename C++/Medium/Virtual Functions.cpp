@@ -5,6 +5,11 @@
 #include <algorithm>
 using namespace std;
 
+/*
+    Solved by: Saqlain Mansab
+    URL: https://www.hackerrank.com/challenges/virtual-functions/problem
+*/
+
 class Person
 {
     public:

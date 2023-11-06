@@ -1,6 +1,11 @@
 #include <iostream>
 using namespace std;
 
+/*
+    Solved by: Saqlain Mansab
+    URL: https://www.hackerrank.com/challenges/accessing-inherited-functions/problem
+*/
+
 class A
 {
     public:
